@@ -6,7 +6,9 @@ Currently I'm looking for jobs where I can complete my internship and write my t
 
 ### Project(s)
 
-[Used cars AI/DA Project](https://github.com/vil-ves/Used-cars-AI-DA-Project)
+> I'm new to GitHub so the list of projects is quite short at the moment...
+
+[Used cars AI/DA Project, JAMK group assignment](https://github.com/vil-ves/Used-cars-AI-DA-Project)
 
 
 <!--
