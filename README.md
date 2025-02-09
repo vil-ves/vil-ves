@@ -2,6 +2,8 @@
 
 I am an ICT engineering student at JAMK University of Applied Sciences. My main interests are backend development, data and AI. 
 
+Currently I'm looking for jobs where I can complete my internship and write my thesis. 
+
 <!--
 **vil-ves/vil-ves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
